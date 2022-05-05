@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/apna_cart/static/css/main.073c9b0a.css",
+    "main.js": "/apna_cart/static/js/main.047e3b5f.js",
+    "static/js/787.a712cfcb.chunk.js": "/apna_cart/static/js/787.a712cfcb.chunk.js",
+    "index.html": "/apna_cart/index.html",
+    "main.073c9b0a.css.map": "/apna_cart/static/css/main.073c9b0a.css.map",
+    "main.047e3b5f.js.map": "/apna_cart/static/js/main.047e3b5f.js.map",
+    "787.a712cfcb.chunk.js.map": "/apna_cart/static/js/787.a712cfcb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.047e3b5f.js"
+  ]
+}
